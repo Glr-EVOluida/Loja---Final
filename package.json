@@ -5,12 +5,16 @@
   "dependencies": {
     "axios": "^0.18.0",
     "body-parser": "^1.18.3",
+    "boleto-br": "^0.2.0",
+    "boleto-pdf": "^0.2.4",
     "chart.js": "^2.7.2",
     "cors": "^2.8.4",
     "downshift": "^3.1.5",
     "express": "^4.16.3",
     "express-fileupload": "^0.4.0",
     "file-system": "^2.2.2",
+    "fontawesome": "^4.7.2",
+    "fs": "^0.0.1-security",
     "jquery": "^3.3.1",
     "jquery-ui-bundle": "^1.12.1-migrate",
     "match-sorter": "^2.3.0",
@@ -21,10 +25,13 @@
     "react-autocomplete": "^1.8.1",
     "react-bootstrap": "^0.32.4",
     "react-cookies": "^0.1.0",
+    "react-credit-cards": "^0.7.0",
     "react-dom": "^16.5.0",
+    "react-pdf": "^3.0.5",
+    "react-pdf-js": "^4.0.1",
     "react-scripts": "1.1.5",
     "react-text-mask": "^5.4.3",
-    "starwars-names": "^1.6.0"
+    "semantic-ui-react": "^0.83.0"
   },
   "scripts": {
     "start": "react-scripts start",

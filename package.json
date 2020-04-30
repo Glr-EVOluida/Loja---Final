@@ -15,7 +15,7 @@
     "file-system": "^2.2.2",
     "fontawesome": "^4.7.2",
     "fs": "^0.0.1-security",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-ui-bundle": "^1.12.1-migrate",
     "match-sorter": "^2.3.0",
     "md5": "^2.2.1",
